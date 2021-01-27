@@ -22,7 +22,7 @@ from __future__ import print_function
 
 from absl import app
 
-from /google-research/depth_and_motion_learning import depth_motion_field_model
+from depth_and_motion_learning import depth_motion_field_model
 from depth_and_motion_learning import training_utils
 
 
